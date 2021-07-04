@@ -1,51 +1,62 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
-body{
+
+body {
     font-family: 'Spartan', sans-serif;
 }
-#parent{
+
+#parent {
     padding: 100px;
     background-color: rgb(91, 156, 214);
     color: white;
 }
-h1{
+
+h1 {
     font-family: 'Spartan', sans-serif;
     display: inline-block;
     margin-right: 250px;
 }
-.child{
+
+.child {
     display: inline-block;
     margin-left: 50px;
 }
-.first{
+
+.first {
     padding-top: 10px;
     padding-left: 100px;
 }
-.summary{
+
+.summary {
     font-weight: 900;
     font-size: 20px;
 }
-.line1{
+
+.line1 {
     background-color: black;
     height: 2px;
     width: 100%;
     display: inline-block;
 }
-.firstlist{
+
+.firstlist {
     display: inline-block;
     margin-left: 50px;
 }
-.secondlist{
-   display: inline-block;
-   padding-left: 50px;
+
+.secondlist {
+    display: inline-block;
+    padding-left: 50px;
 }
-.thirdlist{
+
+.thirdlist {
     padding-top: 5px;
     margin-left: 50px;
 }
-.footer{
+
+.footer {
     margin-top: 10px;
     background-color: rgb(91, 156, 214);
     width: 100%;

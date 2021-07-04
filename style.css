@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Spartan', sans-serif;
+}
+#parent{
+    padding: 100px;
+    background-color: rgb(91, 156, 214);
+    color: white;
+}
+h1{
+    font-family: 'Spartan', sans-serif;
+    display: inline-block;
+    margin-right: 250px;
+}
+.child{
+    display: inline-block;
+    margin-left: 50px;
+}
+.first{
+    padding-top: 10px;
+    padding-left: 100px;
+}
+.summary{
+    font-weight: 900;
+    font-size: 20px;
+}
+.line1{
+    background-color: black;
+    height: 2px;
+    width: 100%;
+    display: inline-block;
+}
+.firstlist{
+    display: inline-block;
+    margin-left: 50px;
+}
+.secondlist{
+   display: inline-block;
+   padding-left: 50px;
+}
+.thirdlist{
+    padding-top: 5px;
+    margin-left: 50px;
+}
+.footer{
+    margin-top: 10px;
+    background-color: rgb(91, 156, 214);
+    width: 100%;
+    height: 50px;
+}
